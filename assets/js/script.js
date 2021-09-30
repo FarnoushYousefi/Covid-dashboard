@@ -4,7 +4,7 @@ var submitForm = document.getElementById('#submit-form');
 
 var cityInput = '';
 var keywordInput = '';
-var googleApiKey = 'AIzaSyAhOZZGJoUqHE0c14emapGTAXw11nkiHqs';
+var googleApiKey = 'AIzaSyA6OcMSZOYiaZ9no_IFR2CwcCNFNEE5czs';
 var googleGeoCodeUrl =
   'https://maps.googleapis.com/maps/api/geocode/json?address=' +
   cityInput +
